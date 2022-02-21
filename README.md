@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -83,7 +84,9 @@ AM1(ECA051-AM) - Mentoring
 </ul>
 </body>
 </html>
+```
 
 
 # OUPUT:
+![output](./logo.png)
 ![output](./45.png)
