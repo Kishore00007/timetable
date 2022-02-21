@@ -90,3 +90,6 @@ AM1(ECA051-AM) - Mentoring
 # OUPUT:
 ![output](./logo.png)
 ![output](./45.png)
+
+## RESULT:
+Timetable was created successfully
